@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Faruk
 #### a Junior Developer
-I wonder and want to learn about backend technologies, advanced programming and big data subjects.
+I wonder and want to learn about data analysis, data visualization and big data subjects. I am trying to improve myself on backend technologies.
 
-Skills: **Java, Python, Javascript, PHP, C, Bootstrap, Pugjs**
+Skills: **Java, Python, Javascript, Bootstrap, Pugjs, Node.js, C**
 
 - 🔭 I’m currently working on **E-Commerce with Spring** 
 - 🌱 I’m currently learning **Spring** 
