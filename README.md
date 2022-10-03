@@ -2,7 +2,7 @@
 #### a Junior Computer Engineer
 I'm curious about data-related studies and would like to work in a data-related field in the future. I am curious and want to learn about data analysis and big data. I am trying to improve myself on web backend technologies. I love learning something new and it excites me.
 
-Skills: **Java, Python, Javascript, Bootstrap, Pugjs, Node.js, C**
+Skills: **Java, Python, Node.js, Bootstrap 5, Pug.js, PL/SQL, C**
 
 - 🔭 I’m currently working on **E-Commerce with Spring** 
 - 🌱 I’m currently learning **Spring** 
