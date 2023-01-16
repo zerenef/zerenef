@@ -4,8 +4,8 @@ I'm curious about data-related studies and would like to work in a data-related 
 
 Skills: **Java, Python, Node.js, Bootstrap 5, Pug.js, PL/SQL, C**
 
-- 🔭 I’m currently working on **E-Commerce with Spring** 
-- 🌱 I’m currently learning **Spring** 
+- 🔭 I’m currently working on **LDAP and Role Based Authentication** 
+- 🌱 I’m currently learning **Node.js** 
 - 📫 How to reach me: zerenvfaruk@gmail.com 
 
 
